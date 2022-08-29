@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/geovannymelchor/Documents/vanessita/pizzeria'
+echo "make install: instalar el ambiente de ejecución"
+echo "make install-local: instalar el ambiente de desarrollo"
+echo "make shell: referenciar el ambiente de desarrollo dentro de la consola"
+make: Leaving directory `/Users/geovannymelchor/Documents/vanessita/pizzeria'
+ 

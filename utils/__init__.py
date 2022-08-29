@@ -5,7 +5,7 @@ MENU_PRINCIPAL = '''
 '''
 
 MENU_PIZZA = '''
-1. Tamaños de pizza
+1. Tamanos de pizza
 2. Tipos de borde
 3. Ingredientes
 4. Tipos de masa

@@ -2,9 +2,9 @@ from modules.file_handler import write_file
 
 
 def tamanos_pizza(data):
-    print("Tamaños de pizzas, No Editable")
+    print("Tamanos de pizzas, No Editable")
     for elements in data["ingredients"]:
-        print(elements)
+        print(elements["name"])
     return True, data
 
 def tipos_borde(self):
