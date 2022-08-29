@@ -1,0 +1,19 @@
+{
+    "ingredients": [
+        {
+            "id": 1,
+            "type": "tama\u00f1o_pizza",
+            "name": "personal"
+        },
+        {
+            "id": 2,
+            "type": "tama\u00f1o_pizza",
+            "name": "mediana"
+        },
+        {
+            "id": 3,
+            "type": "tama\u00f1o_pizza",
+            "name": "grande"
+        }
+    ]
+}
